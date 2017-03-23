@@ -13,7 +13,7 @@
 
 A collection of simple cheatsheets containing various commands that I pick up over my time as a sysadmin/engineer.
 
-Some of the notes are purely because I can go months between using the commands, others because I use them once and they are good to make a note of.
+Some of the notes are purely because I can go months between using the commands, or sometimes because I come across an interesting or useful command that may never be used ever again. Ever. 
 
 Feel free to add/improve/correct as necessary.
 
