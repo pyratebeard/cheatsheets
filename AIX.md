@@ -68,3 +68,8 @@ Show Fibre fw
 lsdev | grep fcs*
 lsmcode -d fcs0
 ```
+
+List installed packages
+```
+lslpp -l
+```
