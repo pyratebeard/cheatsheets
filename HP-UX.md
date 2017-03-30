@@ -54,3 +54,12 @@ Show hardware architecture (rX = Itanium, rP = PA-RISC)
 ```
 model
 ```
+Check account login attributes on a [Trusted system](http://myhpux.blogspot.ie/2009/12/trusted-systems.html)
+```
+/usr/lbin/getprpw <user>
+```
+
+Unlock account on a Trusted system
+```
+/usr/lbin/modprpw -k <user>
+```
