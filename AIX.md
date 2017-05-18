@@ -73,3 +73,8 @@ List installed packages
 ```
 lslpp -l
 ```
+
+View system access details
+```
+/usr/sbin/acct/fwtmp < /var/adm/wtmp
+```
