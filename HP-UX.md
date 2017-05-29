@@ -63,3 +63,8 @@ Unlock account on a Trusted system
 ```
 /usr/lbin/modprpw -k <user>
 ```
+
+View user attributes on a Non-Trusted system
+```
+logins -x -l <user>
+```
